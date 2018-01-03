@@ -7,5 +7,5 @@ public class valueOf {
 		String s=String.valueOf(a);  
 		System.out.println(s+a+10+"10");  
 	}
-
 }
+
