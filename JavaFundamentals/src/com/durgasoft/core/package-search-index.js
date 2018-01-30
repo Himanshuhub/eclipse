@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.durgasoft.core"}]

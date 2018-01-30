@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.durgasoft.core","l":"Employee"}]
